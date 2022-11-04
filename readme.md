@@ -1,0 +1,1 @@
+add an image as docs/image.jpg to be referenced for its colour palate 
